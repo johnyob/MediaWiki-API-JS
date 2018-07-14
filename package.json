@@ -1,0 +1,20 @@
+{
+  "name": "wikipedia-js",
+  "version": "3.0.0",
+  "author": "Alistair O'Brien <johnyob132@gmail.com>",
+  "description": "Wrapper for MediaWiki API",
+  "contributors": [],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnyob/Wikipedia-JS.git"
+  },
+  "keywords": [
+    "wikipedia",
+    "mediawiki",
+    "api"
+  ],
+  "dependencies": {
+    "request-promise": ">= 4.2.2"
+  }
+}

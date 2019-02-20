@@ -1,7 +1,7 @@
 {
   "name": "mediawiki-api-js",
   "version": "3.1.0",
-  "author": "Alistair O'Brien <johnyob132@gmail.com>",
+  "author": "Alistair O'Brien",
   "description": "Wrapper for MediaWiki API",
   "contributors": [],
   "main": "index.js",
